@@ -1,4 +1,4 @@
-# The-Web's-Voice-Analyzing-Digital-Footprints
+# Social Media Analytics
 It is an exploration of how individuals and organizations leave traces of their activities, interactions, and behaviors online, this concept delves into the patterns, data, and signals that form as users engage with  social media.
 The Link of video Power point presentation --  { https://docs.google.com/presentation/d/1pyJmVH7X3lQeeW1dWJr1Ja-iSvCGpyiR/edit?usp=sharing&ouid=101470616203551927378&rtpof=true&sd=true }
 
